@@ -13,7 +13,7 @@ Recopilación de simuladores de diferentes usos
 - [Emulador de SO modernos: diferentes distribuciones de Linux y Windows 10](https://www.onworks.net)
 - [Probar disribuciones Linux online](https://distrosea.com/es/)
 
-## Emuladores IoT
+## Simuladores IoT
 
 - [Simuladores de Arduino, ESP32, STM32 y Pi Pico](https://wokwi.com)
 - [Raspberry Pi Azure IoT Online Simulator](https://azure-samples.github.io/raspberry-pi-web-simulator/)
