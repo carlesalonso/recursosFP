@@ -1,6 +1,6 @@
 # Simuladores online
 
-Recopilación de simuladores de diferentes usos
+Recopilación de simuladores online de diferentes usos
 
 ## Simuladores BIOS/UEFI
 
@@ -18,3 +18,7 @@ Recopilación de simuladores de diferentes usos
 - [Simuladores de Arduino, ESP32, STM32 y Pi Pico](https://wokwi.com)
 - [Raspberry Pi Azure IoT Online Simulator](https://azure-samples.github.io/raspberry-pi-web-simulator/)
 - [Adafruit Circuit Playgroud: permite crear programas para Adafruit, probarlos en su simulador y descarga para enviarlos al dispositivo](https://makecode.adafruit.com)
+- [Microsoft MakeCode Maker: permite simular diversos dispositivos IoT](https://maker.makecode.com)
+
+## Seguridad informática
+
